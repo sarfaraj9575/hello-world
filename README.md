@@ -1,2 +1,3 @@
-# hello-world
-My first repository
+Hi,
+  I'm sarfaraj.I like java and app development
+  Thanks.
